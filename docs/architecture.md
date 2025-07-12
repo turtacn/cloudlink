@@ -91,9 +91,9 @@ sequenceDiagram
 
 ## 参考资料
 
-\[1] HashiCorp Terraform Plugin SDK: [https://github.com/hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
-\[2] Crossplane: [https://github.com/crossplane/crossplane](https://github.com/crossplane/crossplane)
-\[3] HashiCorp Vault Documentation: [https://www.vaultproject.io/docs](https://www.vaultproject.io/docs)
-\[4] Redis Official Site: [https://redis.io](https://redis.io)
-\[5] OpenTelemetry: [https://opentelemetry.io](https://opentelemetry.io)
-\[6] Prometheus: [https://prometheus.io](https://prometheus.io)
+* \[1] HashiCorp Terraform Plugin SDK: [https://github.com/hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
+* \[2] Crossplane: [https://github.com/crossplane/crossplane](https://github.com/crossplane/crossplane)
+* \[3] HashiCorp Vault Documentation: [https://www.vaultproject.io/docs](https://www.vaultproject.io/docs)
+* \[4] Redis Official Site: [https://redis.io](https://redis.io)
+* \[5] OpenTelemetry: [https://opentelemetry.io](https://opentelemetry.io)
+* \[6] Prometheus: [https://prometheus.io](https://prometheus.io)
